@@ -15,3 +15,5 @@ APIPublishingStrategy: LoadBalancer
 
 #Base DNS domain of the cluster
 baseDnsDomain: sampletemplateinstance.com
+
+Operators: ['argocd','metalLB']
